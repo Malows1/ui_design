@@ -22,7 +22,7 @@ const Design = () => {
     <SafeAreaView>
     <LinearGradient  colors={['#cc6ef8', '#7A6AFE']}
       start={{ x: 0, y: .1}}
-      end={{ x: .9, y: .5}}
+      end={{ x: 1, y: .5}}
       style={styles.titlecontainer}>
     <Text style = {styles.title} >Store</Text>
     <Image source={back} style = {styles.back} />

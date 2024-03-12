@@ -3,23 +3,23 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
    titlecontainer:{
 
-  height: 130,
+  height: 100,
    },
  title: {
-  top:"70%",
+  top:"65%",
    fontSize: 30,
    color: "#fff",
     textAlign: "center"
  },
  back:{
-  top:60,
+  top:39,
   left: 10,
   tintColor: "white",
   width: 24,
   height: 20,
  },
  faq:{
-  top:40,
+  top:18,
    left: "90%",
   tintColor: "white",
   width: 22,
@@ -61,40 +61,40 @@ const styles = StyleSheet.create({
 },
 product1:{
   backgroundColor:"#FFF",
-  top: 20,
-  height: 90,
+  top: 10,
+  height: 80,
   borderRadius:10,
   width: "95%",
   alignItems: "center"
 },
 product2:{
   backgroundColor:"#fff",
-  top: 40,
-  height: 90,
+  top: 20,
+  height: 80,
   borderRadius:10,
   width: "95%",
   alignItems: "center"
 },
 product3:{
   backgroundColor:"#fff",
-  top: 60,
-  height: 90,
+  top: 30,
+  height: 80,
   borderRadius:10,
   width: "95%",
   alignItems: "center"
 },
 product4:{
   backgroundColor:"#fff",
-  top: 80,
-  height: 90,
+  top: 40,
+  height: 80,
   borderRadius:10,
   width: "95%",
   alignItems: "center"
 },
 product5:{
   backgroundColor:"#fff",
-  top: 100,
-  height: 90,
+  top: 50,
+  height: 80,
   borderRadius:10,
   width: "95%",
   alignItems: "center"
@@ -102,8 +102,8 @@ product5:{
 },
 product:{
   width:"90%",
-  height: 48,
-  top: 20
+  height: 45,
+  top: 15 
  
 }
 
