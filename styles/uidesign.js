@@ -3,23 +3,23 @@ import { StyleSheet } from "react-native";
 const styles = StyleSheet.create({
    titlecontainer:{
 
-  height: 100,
+  height: 110,
    },
  title: {
-  top:"65%",
+  top:"55%",
    fontSize: 30,
    color: "#fff",
     textAlign: "center"
  },
  back:{
-  top:39,
+  top:36,
   left: 10,
   tintColor: "white",
   width: 24,
   height: 20,
  },
  faq:{
-  top:18,
+  top:12,
    left: "90%",
   tintColor: "white",
   width: 22,
